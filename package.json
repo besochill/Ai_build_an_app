@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "cd docs && hads -o"
+  },
+  "dependencies": {
+    "hads": "^3.0.3"
+  }
+}
