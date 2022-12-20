@@ -1,2 +1,2 @@
-# Ai_build_an_app
-This guide is only intended for fun, but if you can make use of it, then let me know the outcome...
+# ChatGPT - The Ai built Application
+###### Disclaimer: Only intended for fun.
