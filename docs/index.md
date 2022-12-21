@@ -27,3 +27,7 @@ The response was:
 > I'm here to help you every step of the way as you build your app, so don't hesitate to ask any questions you may have.
 
 ### So lets begin the journey!
+
+[[index]]
+
+[[toc]]
